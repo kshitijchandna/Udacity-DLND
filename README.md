@@ -1,1 +1,1 @@
-# Udacity-DLND
+Udacity-Nanodegree-Deep-Learning-Foundations
